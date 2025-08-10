@@ -1,0 +1,1 @@
+# gptoss-bullshit-detector
